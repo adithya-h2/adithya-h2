@@ -34,6 +34,8 @@ Passionate about technology, data science, and building impactful projects that 
 
 Feel free to reach out if you want to collaborate on projects or just have a chat about technology!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-n-c27/)
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adithya-h2&show_icons=true&theme=radical)
