@@ -30,6 +30,24 @@ Passionate about technology, data science, and building impactful projects that 
 - **Nextcloud Contributor**: Actively contributing to the Nextcloud open-source project
 - Working on various data science and web development projects
 
+- ## 🎨 Featured: Nextcloud Widget Development
+
+### 🌟 NextMIND - AI-Powered Nextcloud Integration
+Built a production-ready **floating chat widget** for Nextcloud with:
+- 💬 **Real-time messaging** with WebSocket integration
+- 🤖 **AI Chatbot** with context-aware responses
+- 📹 **Video/Audio calls** within the widget
+- 🎯 **iOS-style floating design** with smooth animations
+- 🔧 **Tech Stack**: Vue.js 3, PHP 8.0+, Node.js, Docker
+
+[![View Project](https://img.shields.io/badge/View_Project-NextMIND-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)](https://github.com/adithya-h2/NextMind)
+
+**Why this matters for widget development:**
+- ✅ Experience with component architecture & state management
+- ✅ Real-world API integration with Nextcloud
+- ✅ Responsive design that works across all Nextcloud pages
+- ✅ Performance optimization for smooth UX
+
 ## 📫 Let's Connect
 
 Feel free to reach out if you want to collaborate on projects or just have a chat about technology!
