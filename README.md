@@ -1,4 +1,4 @@
-# Hi there, I'm Adithya! 👋
+# Hi there, I'm Adithya N C ! 👋
 
 ## 🎓 About Me
 
