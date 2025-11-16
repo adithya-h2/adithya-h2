@@ -12,7 +12,7 @@
 
 I'm a Computer Science Engineering student specializing in Data Science in Sai Vidya Institute Of Technology, passionate about problem-solving and building efficient software solutions. I enjoy working on projects that challenge my understanding of algorithms, data structures, and software development principles.
 
-- 🔭 **Education:** 10th-12th: Kendriya Vidyalaya CRPF | UG: Sai Vidya Institute of Technology - B.E CSE (Data Science)
+- 🔭 **Education:** 10th: Deva Matha Central School | 11th-12th: MES PU College | UG: Sai Vidya Institute of Technology - B.E CSE (Data Science)
 - 🌱 **Currently learning:** Data Structures, ADA (Analysis and Design of Algorithms), Python, C, Java Development
 - 💼 **Looking for:** Internship opportunities and collaborative projects
 - 📚 **Focus areas:** Core programming, Data Science, Software Engineering
