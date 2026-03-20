@@ -121,16 +121,6 @@ Real-time data visualization platform for maritime transport efficiency.
 
 ---
 
-## 🏆 Hackathons & Certs
-
-### 🏅 Hackathons
-![Mumbai Hacks 2025](https://img.shields.io/badge/Mumbai--Hacks--2025-5B4A8A?style=for-the-badge) ![Mumbai Hacks 2024](https://img.shields.io/badge/Mumbai--Hacks--2024-F1C40F?style=for-the-badge) ![CodeWars Participant](https://img.shields.io/badge/CodeWars--Participant-E74C3C?style=for-the-badge)
-
-### 📜 Certifications
-![AWS Cloud Practitioner](https://img.shields.io/badge/AWS--Cloud--Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Data Analytics](https://img.shields.io/badge/Google--Data--Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white) ![IBM SkillsBuild](https://img.shields.io/badge/IBM--SkillsBuild-1F70C1?style=for-the-badge&logo=ibm&logoColor=white)
-
----
-
 ## 💬 Dev Quote
 
 <p align="center">
