@@ -39,6 +39,117 @@ class CurrentFocus:
 
 ## 🚀 Tech Stack
 
+<div align="center">
+
+### 🖥️ Languages
+
+<table><tr><td align="center" width="90">
+<sub><b>C</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #A8B9CC, #7A8BA8); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>C++</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #00599C, #003F87); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Java</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #ED8B00, #CA6C00); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Python</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #3776AB, #1E3A8A); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>JS</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #F7DF1E, #F7C600); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>TypeScript</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #3178C6, #235A97); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>PHP</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #777BB4, #6B84B4); padding: 5px;"></a>
+</td></tr></table>
+
+### ⚛️ Frameworks
+
+<table><tr><td align="center" width="90">
+<sub><b>React</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #61DAFB, #38A1D6); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Vue.js</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #4FC08D, #3DA86B); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Node.js</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #339933, #226622); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Express</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #000000, #333333); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>TailwindCSS</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #06B6D4, #0891B2); padding: 5px;"></a>
+</td></tr></table>
+
+### 🗄️ Databases
+
+<table><tr><td align="center" width="90">
+<sub><b>MySQL</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #4479A1, #2A5280); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>MongoDB</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #47A248, #2D6B35); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Firebase</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #FFCA28, #F7B731); padding: 5px;"></a>
+</td></tr></table>
+
+### 🛠️ Tools
+
+<table><tr><td align="center" width="90">
+<sub><b>Git</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #F05032, #C1272D); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>GitHub</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #181717, #333333); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>VSCode</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #007ACC, #0055B8); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Vercel</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #000000, #333333); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Docker</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #2496ED, #1E88E5); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Linux</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #FCC624, #F7B731); padding: 5px;"></a>
+</td></tr></table>
+
+### 🧠 Data Science
+
+<table><tr><td align="center" width="90">
+<sub><b>NumPy</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #013243, #002B4E); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Pandas</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #150458, #2F1B7F); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Scikit-Learn</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #F7931E, #E67E22); padding: 5px;"></a>
+</td><td align="center" width="90">
+<sub><b>Jupyter</b></sub><br>
+<a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50" style="border-radius: 12px; background: linear-gradient(135deg, #F37626, #E74C3C); padding: 5px;"></a>
+</td></tr></table>
+
+</div>
+
+#### 📊 Proficiency Levels
+
+| Skill | Progress | Level |
+| :--- | :--- | :--- |
+| **Data Science & ML** | ████████░░ | 80% |
+| **Full-Stack Development** | ███████░░░ | 70% |
+| **DSA & Algorithms** | ████████░░ | 85% |
+| **Cloud & DevOps** | █████░░░░░ | 50% |
+
+---
+
+
 ### 🖥️ Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
