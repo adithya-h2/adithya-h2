@@ -53,6 +53,7 @@
 | | |
 |---|---|
 | - 🔭 **Education**: Deva Matha → MES PU College → **B.E CSE (Data Science)**, SVIT<br>- 🌱 **Currently mastering**: DSA, ADA, React, Node.js, Python, System Design<br>- 💼 **Looking for**: Software Engineering & Data Science **internships**<br>- 📍 **Base**: Bengaluru, Karnataka, India | - 🎯 **Focus**: Full-Stack Dev, AI/ML, Data Analytics, Cloud<br>- 🏆 **Hackathons**: Mumbai Hacks 2024, Mumbai Hacks 2025<br>- 🤝 **Open to**: Collaborations, Open-Source, Tech Discussions<br>- 💡 **Driven by**: Impact, Innovation, and Continuous Growth |
+-+
 
 ---
 ## 🛠️ Tech Stack & Tools
